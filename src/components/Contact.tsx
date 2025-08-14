@@ -86,7 +86,7 @@ const Contact = () => {
               <div>
                 <h4 className="text-lg font-semibold text-green-300 mb-2">Internship Opportunities</h4>
                 <p className="text-gray-300">
-                  Summer 2025 internships in software development, AI/ML, or 
+                  Summer 2026 internships in software development, AI/ML, or 
                   full-stack web development.
                 </p>
               </div>
